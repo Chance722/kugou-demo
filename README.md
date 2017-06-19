@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kumiao-music
 
 # Vuejs实现酷狗音乐web版 
@@ -36,3 +37,6 @@
 3. npm run dev 
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# kugou-demo
+>>>>>>> ee9779f8ebd5a90cbb6809b2c86432bb33fa045f
